@@ -22,6 +22,4 @@ Step 6 : Now on output box you will get a localhost ip address
 
 Step 7 : Paste it on your browser address bar
 
-Enjoy Machine Learning 
-Nishant Narjinary
-HeyyyBooo
+
